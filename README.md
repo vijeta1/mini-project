@@ -1,1 +1,1 @@
-# mini-project
+# A 3D cube simulation
